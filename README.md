@@ -1,2 +1,2 @@
 # AppDev
-School Purpose Only
+My First Repository(School Purpose Only)
